@@ -4,11 +4,9 @@ This is my personal list of awesome applications built using Rust.
 
 ## Applications
 
-### Tectonic
+### [Tectonic](https://github.com/tectonic-typesetting/tectonic)
 
 Tex compiler.
-
-https://github.com/tectonic-typesetting/tectonic
 
 ### Alacritty
 
