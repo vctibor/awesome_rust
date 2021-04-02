@@ -40,3 +40,10 @@ Replacement for `du`.
 ### Seed
 
 WebAssembly based frontend framework. Very easy to start using.
+
+
+### Plotters
+
+Plotting library
+
+https://github.com/38/plotters
